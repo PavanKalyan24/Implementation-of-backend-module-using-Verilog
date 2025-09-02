@@ -1,0 +1,2 @@
+# Verilog-implementation-of-backend-module-for-a-mixed-signal-IC
+This project involves designing a backend controller for a mixed-signal IC in Verilog. It manages a startup sequence: reading a serial gain configuration, enabling a ring oscillator, processing temperature sensor data through a 4-tap moving average filter, and controlling amplifier bias and core clock speed based on the filtered temperature.
