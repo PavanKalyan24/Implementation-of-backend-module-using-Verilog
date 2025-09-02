@@ -15,6 +15,6 @@ This project involves designing a backend controller for a mixed-signal IC in Ve
 - Moving average filter
 <img width="1488" height="831" alt="Screenshot 2025-09-03 044124" src="https://github.com/user-attachments/assets/ad088da9-ac9d-4ec8-a88c-e2cbc2c71768" />
 
-Visual verification of verilog backend design
+- Visual verification of verilog backend design
 <img width="2877" height="1471" alt="Screenshot 2025-09-03 010820" src="https://github.com/user-attachments/assets/48269782-7f37-4b32-8bbc-59a1a29a10e1" />
 <img width="2849" height="1469" alt="Screenshot 2025-09-03 010753" src="https://github.com/user-attachments/assets/45c02ff5-5708-4962-8232-1e8442ac3d33" />
